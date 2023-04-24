@@ -1,0 +1,16 @@
+.first-block {
+    background-color: lightgray;
+}
+
+main {
+    min-height: 85vh;
+}
+
+img {
+    background-color: rgb(179, 169, 169);
+    height: 25vh;
+}
+
+.navbar-collapse {
+    justify-content: end;
+}
